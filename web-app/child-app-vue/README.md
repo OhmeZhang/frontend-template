@@ -1,4 +1,4 @@
-# main-app
+# child-app-vue
 
 ## Project setup
 ```
